@@ -19,6 +19,15 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.submit_button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    margin-top: 20px;
+    cursor: pointer;  
+}
 .cat_1{
     background-image: linear-gradient(to bottom right,#fc7303, #fac107); 
 }
